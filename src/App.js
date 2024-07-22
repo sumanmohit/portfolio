@@ -18,7 +18,7 @@ function App() {
           Learn Reac
         </a>
       </header> */}
-      <p className='text-2xl'>Hello! Myself <span className='italic'>Mohit Suman</span>, I am Coder & Photographer</p>
+      <p className='text-2xl'>Hello! Myself <span className='italic'>Mohit Suman</span>, I am programmar & Photographer</p>
     </div>
   );
 }
