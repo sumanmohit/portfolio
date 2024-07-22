@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
       </header> */}
-      <p className='text-2xl'>Hello! Myself <span className='italic'>Mohit Suman</span>, I am Coder & Photographer</p>
+      <p className='text-2xl'>Hello! Myself <span className='italic'>Mohit Durgashankar Suman</span>, I am Coder & Photographer</p>
     </div>
   );
 }
