@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn Reac
         </a>
       </header> */}
       <p className='text-2xl'>Hello! Myself <span className='italic'>Mohit Durgashankar Suman</span>, I am Coder & Photographer</p>
